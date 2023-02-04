@@ -1,0 +1,28 @@
+.header {
+    height: 40px;
+    background-color: rgb(230, 230, 230);
+    border-style: solid;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-color: rgb(203, 203, 203);
+    padding-top: 15px;
+}
+
+.logo {
+    float: left;
+    margin-left: 1.4%;
+}
+
+
+.logo img {
+    float: left;
+    position: relative;
+    bottom: 13px;
+}
+
+.menu {
+    float: right;
+    margin-right: 1.4%;
+}

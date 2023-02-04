@@ -1,0 +1,31 @@
+.carForm label {
+    font-weight: 500;
+    font-size: 90%;
+    float: left;
+    margin-left: 5px;
+}
+
+.carForm input,  .carForm select{
+    float: left;
+    width: 80%;
+    height: 30px;
+}
+
+.carForm button {
+    float: right;
+    width: 33%;
+    height: 30px;
+}
+
+hr {
+    margin-top: 20px;
+    width: 80%;
+}
+
+.err {
+    color: red;
+}
+
+.success {
+    color: lime;
+}

@@ -1,0 +1,39 @@
+
+.carstable-container {
+    min-height: 88vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.carstable-fade {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0),  rgb(255, 255, 255));
+    width: 100%;
+    height: 88vh;
+}
+
+.carstable-content{
+    z-index:1;
+    position:absolute;
+}
+
+.cars-table-container {
+    background-color: white;
+    width: 1200px;
+    margin-left: 14%;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    min-height: 77vh;
+    padding: 2%;
+}
+
+.cars-table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: left;
+}
+
+.cars-table thead tr {
+    background-color: lightgray;
+}
