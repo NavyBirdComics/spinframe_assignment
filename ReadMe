@@ -1,1 +1,23 @@
-bwhb
+Assignment for Spinframe
+Revital Bronshtein
+
+
+Installation instructions:
+pull backend folder from master branch
+pull fronend folder from cli branch
+
+run "npm i" in backend folder
+run "npm i" in frontend folder
+
+
+to run app in production mode:
+in backend folder, run "node server"
+in frontend folder, run "npm start"
+
+go to http://localhost:3000/
+
+
+to run app in build mode:
+in backend folder, run "node server"
+
+go to http://localhost:8080/
